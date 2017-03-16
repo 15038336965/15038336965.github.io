@@ -1,0 +1,6 @@
+git is ok.
+git is nice
+git is verygood
+insert
+退出
+

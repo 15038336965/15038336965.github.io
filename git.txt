@@ -11,3 +11,4 @@ change branch
 using master
 using branch1
 the latest
+test no fast-forward
